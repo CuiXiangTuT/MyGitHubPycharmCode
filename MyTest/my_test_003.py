@@ -19,3 +19,6 @@ print("cold fix我在玩儿")
 print("cold fix一点不好玩儿")
 
 print("这都什么跟什么啊~~~~~~~~~~~~~~~~~~")
+
+print("cold fix哈哈哈")
+print("是不是我说的很对，不好玩儿")
