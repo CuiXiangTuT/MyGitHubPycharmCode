@@ -12,3 +12,5 @@ print("Hello My Test ! Hello Me")
 print("Hello My Test ! Hello Me")
 
 print("cold fix分支上的修改")
+print("cold fix你猜在干嘛")
+print("cold fix我在玩儿")
